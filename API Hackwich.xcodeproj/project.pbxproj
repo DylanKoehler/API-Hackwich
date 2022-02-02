@@ -11,6 +11,7 @@
 		3FE608DF27A99818002030B3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE608DE27A99818002030B3 /* ContentView.swift */; };
 		3FE608E127A99821002030B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FE608E027A99821002030B3 /* Assets.xcassets */; };
 		3FE608E427A99821002030B3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FE608E327A99821002030B3 /* Preview Assets.xcassets */; };
+		3FE608EC27AAEB55002030B3 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FE608EB27AAEB54002030B3 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3FE608E027A99821002030B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FE608E327A99821002030B3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3FE608E527A99821002030B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FE608EB27AAEB54002030B3 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				3FE608DE27A99818002030B3 /* ContentView.swift */,
 				3FE608E027A99821002030B3 /* Assets.xcassets */,
 				3FE608E527A99821002030B3 /* Info.plist */,
+				3FE608EB27AAEB54002030B3 /* SwiftyJSON.swift */,
 				3FE608E227A99821002030B3 /* Preview Content */,
 			);
 			path = "API Hackwich";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FE608EC27AAEB55002030B3 /* SwiftyJSON.swift in Sources */,
 				3FE608DF27A99818002030B3 /* ContentView.swift in Sources */,
 				3FE608DD27A99818002030B3 /* API_HackwichApp.swift in Sources */,
 			);
